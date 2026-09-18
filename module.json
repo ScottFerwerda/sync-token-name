@@ -1,11 +1,11 @@
 {
     "id": "sync-token-name",
+    "type": "module",
     "title": "Sync Token Names",
     "description": "Simple module to synchronize actor names with token names. Works automatically, disable it if you dont want to sync.",
     "authors": [
         {
-            "name": "Felipe Figueiredo",
-            "flags": {}
+            "name": "Felipe Figueiredo"
         }
     ],
     "version": "2.0.1",
