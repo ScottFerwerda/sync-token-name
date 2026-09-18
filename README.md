@@ -6,7 +6,7 @@ Enable the module and it'll automatically update the token name everytime you ch
 If you want to disable the sync, just disable the module.
 
 ## Installation URL
-https://raw.githubusercontent.com/lipefl/sync-token-name/main/module.json
+[https://raw.githubusercontent.com/lipefl/sync-token-name/main/module.json](https://raw.githubusercontent.com/ScottFerwerda/sync-token-name/main/module.json)
 
 # Em Português
 Um módulo simples para sincronizar os nomes dos atores com seus tokens.
@@ -16,5 +16,5 @@ Habilite o módulo e ele irá atualizar automaticamente o nome do token toda vez
 Se quiser disabilitar a sincronização, basta desabilitar o módulo.
 
 ## URL de Instalação
-https://raw.githubusercontent.com/lipefl/sync-token-name/main/module.json
+[https://raw.githubusercontent.com/lipefl/sync-token-name/main/module.json](https://raw.githubusercontent.com/ScottFerwerda/sync-token-name/main/module.json)
 
